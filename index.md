@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/Adam-Stamoulos/Magicians-A
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Play Magicians-Apprentice now!](https://games.gdevelop-app.com/game-ec0ef8e1-99d9-48f1-9476-f76981eb3fb5/index.html)
+
+- Note! Still an early prototype
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
