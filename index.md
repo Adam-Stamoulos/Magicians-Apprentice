@@ -3,6 +3,12 @@
 
 - Note! Still an early prototype
 
+# Controls
+
+- Press r to swing your wand
+- Press f to throw a card
+- Move with up down left right 
+
 # Prototype
 
 - Basic spawning system to demonstrate wave of enemies before a room will open
